@@ -1,7 +1,7 @@
 {
   "name": "chatapp",
   "version": "1.0.0",
-  "description": "A simple chat application with frontend and backend",
+  "description": "A simple chat application with frontend and backend and real time chat appliction",
   "main": "index.js",
   "scripts": {
     "install-all": "npm install --prefix backend && npm install --prefix frontend",
